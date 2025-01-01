@@ -1,0 +1,198 @@
+body{
+    /*color: rgb(243, 194, 194);*/
+    color:#fff;
+    background-color: currentColor;
+    
+}
+.container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(207, 177, 39);
+    border: 1px solid black;
+    padding: 10%;
+    margin: 20ox;
+}
+
+.sun{
+    border-top: 100px solid rgb(241, 241, 163);
+    border-left: 100px solid rgb(241, 241, 163);
+    border-bottom: 100px solid rgb(241, 241, 163);
+    border-right: 100px solid rgb(241, 241, 163);
+    border-radius: 50%;
+    margin: 100px 200px;
+}
+.circle{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border: 10px solid rgb(207, 177, 39);
+    border-radius: 50%;
+    padding: 100px;
+}
+.rayon1{
+    position: absolute;
+    left: 50%;
+    top: 22%;
+    transform: translate(-50%,-50%);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon2{
+    position: absolute;
+    left: 50%;
+    top: 78%;
+    transform: translate(-50%,-50%) rotate(180deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon3{
+    position: absolute;
+    left: 71%;
+    top: 50%;
+    transform: translate(-50%,-50%) rotate(90deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon4{
+    position: absolute;
+    left: 29%;
+    top: 50%;
+    transform: translate(-50%,-50%) rotate(-90deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon5{
+    position: absolute;
+    left: 69%;
+    top: 37%;
+    transform: translate(-50%,-50%) rotate(66deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon6{
+    position: absolute;
+    left: 62%;
+    top: 26%;
+    transform: translate(-50%,-50%) rotate(33deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon7{
+    position: absolute;
+    left: 62%;
+    top: 74%;
+    transform: translate(-50%,-50%) rotate(145deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon8{
+    position: absolute;
+    left: 69%;
+    top: 64%;
+    transform: translate(-50%,-50%) rotate(121deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon9{
+    position: absolute;
+    left: 39%;
+    top: 75%;
+    transform: translate(-50%,-50%) rotate(208deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon10{
+    position: absolute;
+    left: 31%;
+    top: 64%;
+    transform: translate(-50%,-50%) rotate(243deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon11{
+    position: absolute;
+    left: 31%;
+    top: 37.5%;
+    transform: translate(-50%,-50%) rotate(296deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+.rayon12{
+    position: absolute;
+    left: 38%;
+    top: 26%;
+    transform: translate(-50%,-50%) rotate(328deg);
+    height: 0px;
+    width: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 130px solid rgb(241, 241, 163);
+    border-right: 25px solid transparent;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
